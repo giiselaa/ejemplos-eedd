@@ -1,2 +1,2 @@
-# ejemplos-Sesión2
-repositorio para hacer ejemplos
+# ejemplos
+repositorio para los ejemplos
