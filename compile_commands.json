@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo6",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo6\\main.cpp -o C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo6\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo5\\main.cpp",
+  "directory": "C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo5",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo5\\main.cpp -o C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo5\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo1",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo1\\main.cpp -o C:\\Users\\giise\\Documents\\EEDD\\ejemplos-sesion2\\ejemplo1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\10.3.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
